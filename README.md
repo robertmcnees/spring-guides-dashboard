@@ -1,1 +1,23 @@
-# spring-guides-dashboard
+# Spring Guides Dashboard
+
+A central place to manage all GitHub Actions builds of the many [Spring Guides](https://github.com/spring-guides).
+
+Note this is likely a temporary location for a proof of concept until a more suitable repository is found.
+
+| Guide | Build Status | Upgrade Issue |
+| -- | -- | -- |
+| [Building a RESTful Web Service](https://github.com/spring-guides/gs-rest-service) | [![build status](https://github.com/spring-guides/gs-rest-service/actions/workflows/continuous-integration-build.yml/badge.svg)](https://github.com/spring-guides/gs-rest-service/actions/workflows/continuous-integration-build.yml) | [Good first issue](https://github.com/spring-guides/gs-rest-service/issues/149) |
+| [Scheduling Tasks](https://github.com/spring-guides/gs-scheduling-tasks) | [![build status](https://github.com/spring-guides/gs-scheduling-tasks/actions/workflows/continuous-integration-build.yml/badge.svg)](https://github.com/spring-guides/gs-scheduling-tasks/actions/workflows/continuous-integration-build.yml) |  |
+| [Consuming a RESTful Web Service](https://github.com/spring-guides/gs-consuming-rest) | [![build status](https://github.com/spring-guides/gs-consuming-rest/actions/workflows/continuous-integration-build.yml/badge.svg)](https://github.com/spring-guides/gs-consuming-rest/actions/workflows/continuous-integration-build.yml) |  |
+| [Accessing Relational Data using JDBC with Spring](https://github.com/spring-guides/gs-relational-data-access) | [![build status](https://github.com/spring-guides/gs-relational-data-access/actions/workflows/continuous-integration-build.yml/badge.svg)](https://github.com/spring-guides/gs-relational-data-access/actions/workflows/continuous-integration-build.yml) | [Good first issue](https://github.com/spring-guides/gs-relational-data-access/issues/36) |
+| [Messaging with Redis](https://github.com/spring-guides/gs-messaging-redis) | [![build status](https://github.com/spring-guides/gs-messaging-redis/actions/workflows/continuous-integration-build.yml/badge.svg)](https://github.com/spring-guides/gs-messaging-redis/actions/workflows/continuous-integration-build.yml) | [Good first issue](https://github.com/spring-guides/gs-messaging-redis/issues/25) |
+| [Messaging with RabbitMQ](https://github.com/spring-guides/gs-messaging-rabbitmq) | [![build status](https://github.com/spring-guides/gs-messaging-rabbitmq/actions/workflows/continuous-integration-build.yml/badge.svg)](https://github.com/spring-guides/gs-messaging-rabbitmq/actions/workflows/continuous-integration-build.yml) | [Good first issue](https://github.com/spring-guides/gs-messaging-rabbitmq/issues/37) |
+| [Creating a Batch Service](https://github.com/spring-guides/gs-batch-processing) | [![build status](https://github.com/spring-guides/gs-batch-processing/actions/workflows/continuous-integration-build.yml/badge.svg)](https://github.com/spring-guides/gs-batch-processing/actions/workflows/continuous-integration-build.yml) | [Good first issue](https://github.com/spring-guides/gs-batch-processing/issues/53) |
+| [Securing a Web Application](https://github.com/spring-guides/gs-securing-web) | [![build status](https://github.com/spring-guides/gs-securing-web/actions/workflows/continuous-integration-build.yml/badge.svg)](https://github.com/spring-guides/gs-securing-web/actions/workflows/continuous-integration-build.yml) | [Good first issue](https://github.com/spring-guides/gs-securing-web/issues/73) |
+| [Managing Transactions](https://github.com/spring-guides/gs-managing-transactions) | [![build status](https://github.com/spring-guides/gs-managing-transactions/actions/workflows/continuous-integration-build.yml/badge.svg)](https://github.com/spring-guides/gs-managing-transactions/actions/workflows/continuous-integration-build.yml) | [Good first issue](https://github.com/spring-guides/gs-managing-transactions/issues/19) |
+| [Accessing Data with JPA](https://github.com/spring-guides/gs-accessing-data-jpa) | [![build status](https://github.com/spring-guides/gs-accessing-data-jpa/actions/workflows/continuous-integration-build.yml/badge.svg)](https://github.com/spring-guides/gs-accessing-data-jpa/actions/workflows/continuous-integration-build.yml) | [Good first issue](https://github.com/spring-guides/gs-accessing-data-jpa/issues/64) |
+| [Spring Cloud Task](https://github.com/spring-guides/gs-spring-cloud-task) | [![build status](https://github.com/spring-guides/gs-spring-cloud-task/actions/workflows/continuous-integration-build.yml/badge.svg)](https://github.com/spring-guides/gs-spring-cloud-task/actions/workflows/continuous-integration-build.yml) | [Good first issue]() |
+
+
+| []() | [![build status](/actions/workflows/continuous-integration-build.yml/badge.svg)](/actions/workflows/continuous-integration-build.yml) | [Good first issue]() |
+
