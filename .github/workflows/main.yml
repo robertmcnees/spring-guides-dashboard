@@ -5,7 +5,10 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout Repository
+      # local repository checkout required for the add-and-commit action
+      - name: Checkout Local Repository
+        uses: actions/checkout@v4
+      - name: Checkout Remote Repository
         uses: actions/checkout@v4
         with:
           repository: robertmcnees/gs-scheduling-tasks
