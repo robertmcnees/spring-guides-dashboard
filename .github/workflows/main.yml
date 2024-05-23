@@ -8,7 +8,7 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v3
         with:
-          name: robertmcnees/gs-scheduling-tasks
+          repository: robertmcnees/gs-scheduling-tasks
       - name: Install Asciidoctor Reducer
         run: sudo gem install asciidoctor-reducer
       - name: Reduce README
