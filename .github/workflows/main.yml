@@ -10,13 +10,12 @@ jobs:
         with:
           repository: robertmcnees/gs-scheduling-tasks
           ref: main
-          sparse-checkout: |
-            README.adoc
+          path: './main'
       - name: Install Asciidoctor Reducer
         run: sudo gem install asciidoctor-reducer
       - name: Reduce README
         # to preserve preprocessor conditionals, add the --preserve-conditionals option
-        run: asciidoctor-reducer -a env-build-for-spring-academy -a allow-uri-read -o README-reduced.adoc README.adoc
+        run: asciidoctor-reducer -a env-build-for-spring-academy -a allow-uri-read -o README-reduced.adoc main/README.adoc
       - name: Install Node
         uses: actions/setup-node@v4
         with:
