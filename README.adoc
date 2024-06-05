@@ -52,7 +52,7 @@
 
 | https://github.com/spring-guides/gs-accessing-data-rest[Accessing JPA Data with REST]
 | gs-accessing-data-rest
-|
+| image:https://github.com/spring-guides/gs-accessing-data-rest/actions/workflows/continuous-integration-build.yml/badge.svg[link=https://github.com/spring-guides/gs-accessing-data-rest/actions/workflows/continuous-integration-build.yml]
 
 | https://github.com/spring-guides/gs-managing-transactions[Managing Transactions]
 | gs-managing-transactions
