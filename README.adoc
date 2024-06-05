@@ -32,6 +32,10 @@
 | gs-spring-boot-kubernetes
 | image:https://github.com/spring-guides/gs-spring-boot-kubernetes/actions/workflows/continuous-integration-build.yml/badge.svg[link=https://github.com/spring-guides/gs-spring-boot-kubernetes/actions/workflows/continuous-integration-build.yml]
 
+| https://github.com/spring-guides/top-spring-on-kubernetes[Spring on Kubernetes]
+| top-spring-on-kubernetes
+|
+
 3+| *Data Access*
 
 | https://github.com/spring-guides/gs-accessing-data-mysql[Accessing Data with MySQL]
@@ -78,10 +82,6 @@
 | gs-accessing-data-neo4j
 | image:https://github.com/spring-guides/gs-accessing-data-neo4j/actions/workflows/continuous-integration-build.yml/badge.svg[link=https://github.com/spring-guides/gs-accessing-data-neo4j/actions/workflows/continuous-integration-build.yml]
 
-| https://github.com/spring-guides/gs-accessing-data-gemfire[Accessing Data in Pivotal GemFire]
-| gs-accessing-data-gemfire
-|
-
 3+| *IO*
 
 | https://github.com/spring-guides/gs-uploading-files[Uploading Files]
@@ -125,6 +125,10 @@
 | https://github.com/spring-guides/gs-spring-cloud-stream[Spring Cloud Stream]
 | gs-spring-cloud-stream
 | image:https://github.com/spring-guides/gs-spring-cloud-stream/actions/workflows/continuous-integration-build.yml/badge.svg[link=https://github.com/spring-guides/gs-spring-cloud-stream/actions/workflows/continuous-integration-build.yml]
+
+| https://github.com/spring-guides/gs-messaging-redis[Messaging with Redis]
+| gs-messaging-redis
+| image:https://github.com/spring-guides/gs-messaging-redis/actions/workflows/continuous-integration-build.yml/badge.svg[link=https://github.com/spring-guides/gs-messaging-redis/actions/workflows/continuous-integration-build.yml]
 
 3+| *Microservices*
 
@@ -178,6 +182,10 @@
 | gs-spring-boot
 | image:https://github.com/spring-guides/gs-spring-boot/actions/workflows/continuous-integration-build.yml/badge.svg[link=https://github.com/spring-guides/gs-spring-boot/actions/workflows/continuous-integration-build.yml]
 
+| https://github.com/spring-guides/tut-rest[Building REST services with Spring]
+| tut-rest
+|
+
 3+| *Security*
 
 | https://github.com/spring-guides/gs-accessing-vault[Accessing Vault]
@@ -199,6 +207,14 @@
 | https://github.com/spring-guides/gs-securing-web[Securing a Web Application]
 | gs-securing-web
 | image:https://github.com/spring-guides/gs-securing-web/actions/workflows/continuous-integration-build.yml/badge.svg[link=https://github.com/spring-guides/gs-securing-web/actions/workflows/continuous-integration-build.yml]
+
+| https://github.com/spring-guides/tut-spring-security-and-angular-js[Spring Security and Angular]
+| tut-spring-security-and-angular-js
+|
+
+| https://github.com/spring-guides/tut-spring-boot-oauth2[Spring Boot and Oauth2]
+| tut-spring-boot-oauth2
+|
 
 3+| *Testing*
 
@@ -252,10 +268,6 @@
 
 3+| *Uncategorized*
 
-| https://github.com/spring-guides/gs-messaging-redis[Messaging with Redis]
-| gs-messaging-redis
-| image:https://github.com/spring-guides/gs-messaging-redis/actions/workflows/continuous-integration-build.yml/badge.svg[link=https://github.com/spring-guides/gs-messaging-redis/actions/workflows/continuous-integration-build.yml]
-
 | https://github.com/spring-guides/gs-crud-with-vaadin[Creating CRUD UI with Vaadin]
 | gs-crud-with-vaadin
 | image:https://github.com/spring-guides/gs-crud-with-vaadin/actions/workflows/continuous-integration-build.yml/badge.svg[link=https://github.com/spring-guides/gs-crud-with-vaadin/actions/workflows/continuous-integration-build.yml]
@@ -266,26 +278,6 @@
 
 | https://github.com/spring-guides/gs-messaging-gcp-pubsub[Messaging with Google Cloud Pub/Sub]
 | gs-messaging-gcp-pubsub
-|
-
-| https://github.com/spring-guides/gs-caching-gemfire[Caching Data with Pivotal GemFire]
-| gs-caching-gemfire
-|
-
-| https://github.com/spring-guides/gs-consuming-rest-angularjs[Consuming a RESTful Web Service with AngularJS]
-| gs-consuming-rest-angularjs
-|
-
-| https://github.com/spring-guides/gs-consuming-rest-jquery[Consuming a RESTful Web Service with jQuery]
-| gs-consuming-rest-jquery
-|
-
-| https://github.com/spring-guides/gs-convert-jar-to-war[Converting a Spring Boot Jar Application to a WAR]
-| gs-convert-jar-to-war
-|
-
-| https://github.com/spring-guides/gs-gradle[Building Java Projects with Gradle]
-| gs-gradle
 |
 
 | https://github.com/spring-guides/gs-guides-with-vscode[Building a Guide with VS Code]
@@ -300,10 +292,6 @@
 | gs-intellij-idea
 |
 
-| https://github.com/spring-guides/gs-maven[Building Java Projects with Maven]
-| gs-maven
-|
-
 | https://github.com/spring-guides/gs-spring-boot-docker[Spring Boot with Docker]
 | gs-spring-boot-docker
 |
@@ -312,48 +300,12 @@
 | gs-sts
 |
 
-| https://github.com/spring-guides/gs-sts-cloud-foundry-deployment[Deploying to Cloud Foundry from STS]
-| gs-sts-cloud-foundry-deployment
-|
-
 | https://github.com/spring-guides/gs-tanzu-observability[Observability with Spring]
 | gs-tanzu-observability
 |
 
-| https://github.com/spring-guides/top-spring-boot-docker[Spring Boot Docker]
-| top-spring-boot-docker
-|
-
-| https://github.com/spring-guides/top-spring-on-kubernetes[Spring on Kubernetes]
-| top-spring-on-kubernetes
-|
-
-| https://github.com/spring-guides/top-spring-security-architecture[Spring Security Architecture]
-| top-spring-security-architecture
-|
-
-| https://github.com/spring-guides/tut-metrics-and-tracing[Metrics and Tracing with Spring]
-| tut-metrics-and-tracing
-|
-
-| https://github.com/spring-guides/tut-react-and-spring-data-rest[React.js and Spring Data REST]
-| tut-react-and-spring-data-rest
-|
-
-| https://github.com/spring-guides/tut-rest[Building REST services with Spring]
-| tut-rest
-|
-
 | https://github.com/spring-guides/tut-spring-boot-kotlin[Building web applications wiht Spring Boot and Kotlin]
 | tut-spring-boot-kotlin
-|
-
-| https://github.com/spring-guides/tut-spring-boot-oauth2[Spring Boot and Oauth2]
-| tut-spring-boot-oauth2
-|
-
-| https://github.com/spring-guides/tut-spring-security-and-angular-js[Spring Security and Angular]
-| tut-spring-security-and-angular-js
 |
 
 | https://github.com/spring-guides/tut-spring-webflux-kotlin-rsocket[Spring Boot with Kotlin Coroutines and RSocket]
@@ -361,15 +313,63 @@
 |
 
 
-
 |===
 
 == Archived / Read Only
 
-[cols="2*"]
+[cols="3*"]
 |===
 | https://github.com/spring-attic/gs-routing-and-filtering[Routing and Filtering]
 | gs-routing-and-filtering
+|
+
+| https://github.com/spring-guides/gs-caching-gemfire[Caching Data with Pivotal GemFire]
+| gs-caching-gemfire
+|
+
+| https://github.com/spring-guides/gs-gradle[Building Java Projects with Gradle]
+| gs-gradle
+|
+
+| https://github.com/spring-guides/gs-maven[Building Java Projects with Maven]
+| gs-maven
+|
+
+| https://github.com/spring-guides/gs-consuming-rest-jquery[Consuming a RESTful Web Service with jQuery]
+| gs-consuming-rest-jquery
+|
+
+| https://github.com/spring-guides/gs-accessing-data-gemfire[Accessing Data in Pivotal GemFire]
+| gs-accessing-data-gemfire
+|
+
+| https://github.com/spring-guides/gs-consuming-rest-angularjs[Consuming a RESTful Web Service with AngularJS]
+| gs-consuming-rest-angularjs
+|
+
+| https://github.com/spring-guides/tut-metrics-and-tracing[Metrics and Tracing with Spring]
+| tut-metrics-and-tracing
+|
+
+| https://github.com/spring-guides/top-spring-boot-docker[Spring Boot Docker]
+| top-spring-boot-docker
+|
+
+| https://github.com/spring-guides/top-spring-security-architecture[Spring Security Architecture]
+| top-spring-security-architecture
+|
+
+| https://github.com/spring-guides/gs-sts-cloud-foundry-deployment[Deploying to Cloud Foundry from STS]
+| gs-sts-cloud-foundry-deployment
+|
+
+| https://github.com/spring-guides/gs-convert-jar-to-war[Converting a Spring Boot Jar Application to a WAR]
+| gs-convert-jar-to-war
+|
+
+| https://github.com/spring-guides/tut-react-and-spring-data-rest[React.js and Spring Data REST]
+| tut-react-and-spring-data-rest
+|
 
 |===
 
