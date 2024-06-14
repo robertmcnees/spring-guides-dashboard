@@ -146,7 +146,7 @@
 
 | https://github.com/spring-guides/gs-cloud-circuit-breaker[Spring Cloud Circuit Breaker]
 | gs-cloud-circuit-breaker
-|
+| image:https://github.com/spring-guides/gs-cloud-circuit-breaker/actions/workflows/continuous-integration-build.yml/badge.svg[link=https://github.com/spring-guides/gs-cloud-circuit-breaker/actions/workflows/continuous-integration-build.yml]
 
 | https://github.com/spring-guides/gs-centralized-configuration[Centralized Configuration]
 | gs-centralized-configuration
