@@ -264,7 +264,7 @@
 
 | https://github.com/spring-guides/gs-graphql-server[Building a GraphQL service]
 | gs-graphql-server
-|
+| image:https://github.com/spring-guides/gs-graphql-server/actions/workflows/continuous-integration-build.yml/badge.svg[link=https://github.com/spring-guides/gs-graphql-server/actions/workflows/continuous-integration-build.yml]
 
 3+| *Uncategorized*
 
