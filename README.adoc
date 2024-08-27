@@ -72,11 +72,11 @@
 
 | https://github.com/spring-guides/gs-accessing-data-cassandra[Accessing Data with Cassandra]
 | gs-accessing-data-cassandra
-|
+| 
 
 | https://github.com/spring-guides/gs-spring-data-reactive-redis[Accessing Data Reactively with Redis]
 | gs-spring-data-reactive-redis
-|
+| image:https://github.com/spring-guides/gs-spring-data-reactive-redis/actions/workflows/continuous-integration-build.yml/badge.svg[link=https://github.com/spring-guides/gs-spring-data-reactive-redis/actions/workflows/continuous-integration-build.yml]
 
 | https://github.com/spring-guides/gs-accessing-data-neo4j[Accessing Data with Neo4J]
 | gs-accessing-data-neo4j
