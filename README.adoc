@@ -34,7 +34,7 @@
 
 | https://github.com/spring-guides/top-spring-on-kubernetes[Spring on Kubernetes]
 | top-spring-on-kubernetes
-|
+| https://github.com/spring-guides/top-spring-on-kubernetes/pull/7[Pending PR]
 
 3+| *Data Access*
 
